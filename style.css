@@ -1,0 +1,24 @@
+.jumbotron {
+background-color:white;
+background-image: url("trainbg.jpg");
+background-position: left;
+background-repeat: no-repeat;
+text-align: right;
+font-size:35px;
+}
+
+.card-title { 
+    background-color:brown;
+    color:white;
+    font-size:20px;
+    padding:10px;
+}
+
+.card-body {
+    background-color: grey;
+}
+
+#add-train {
+    background-color: brown;
+    font-size: 20px;
+}
